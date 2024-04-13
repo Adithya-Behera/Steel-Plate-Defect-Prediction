@@ -6,5 +6,5 @@
 - pip install gunicorn
 
 - python app.py
-- Live Website : https://steel-defect-detection-t6pm.onrender.com
+- Live Website : https://steel-plate-defect-prediction.onrender.com/
 
